@@ -1,0 +1,8 @@
+# Logs de TensorBoard y modelos (pesan mucho; los resultados que importan van a results/)
+runs/
+videos/
+*.pt
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
